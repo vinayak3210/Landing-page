@@ -99,3 +99,19 @@ section a:hover {
     background: transparent;
     border: 1px solid indianred;
 }
+
+@media only screen and (max-width:900px){
+    ul{
+        gap: 10px;
+        font-size: 12px;
+    }
+
+    .logo{
+        font-size: 1.2em;
+    }
+
+    .Register{
+        font-size: 12px;
+    }
+}
+
